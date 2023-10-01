@@ -1,0 +1,20 @@
+|                       |  FABRICANTE  |  CANTIDAD NUCLEOS  |  LA FRECUENCIA DE TRABAJO  |  CANTIDAD DE MEMORIA CACHE L1,L2,L3           |  Hyperthreading  |
+|-----------------------|--------------|--------------------|----------------------------|-----------------------------------------------|------------------|
+| **Pentium II**        |   INTEL      |        1           |       233MHz-450Mhz        | L1 32KB, L2 =(512KB Y 1MB Y 2MB)              |     NO           |
+| **Core2 Duo**         |   INTEL      |        2           |       3.00 GHz             |     L2 4MIB 1.2GHz y 512KiB                   |     NO           |
+| **Phenom II X4 650T** |   AMD K10    |        4           |       3.20 GHz             |L1:	128 KB (per core)L2:512 KB(per core)4 MB L3|     NO           |
+| **i7-4770K**          |   INTEL CORE |        4           |       3.90 GHz             |           NO                                  |     YES          |
+| **i9-11900F**         |INTEL CORE 11G|        8           |       5.20 GHz             |           NO                                  |     YES          |
+| **Ryzen 9 3900XT**    |   AMD        |        12          |       3.80 GHz             |L2 6MB, L3 64MB                                |     YES          |
+
+
+https://es.m.wikipedia.org/wiki/Intel_Core_2
+https://www.cpu-monkey.com/es/cpu-amd_ryzen_9_3900xt
+https://es.m.wikipedia.org/wiki/Pentium_II.
+https://technical.city/es/cpu/Phenom-II-X4-650T#:~:text=AMD%20empez%C3%B3%20las%20ventas%20Phenom%20II%20X4%20650T,es%20de%203200%20MHz%2C%20con%20el%20miltiplicador%20bloqueado.
+https://www.techpowerup.com/cpu-specs/phenom-ii-x4-650t.c752#:~:text=The%20AMD%20Phenom%20II%20X4%20650T%20was%20a,up%20to%203.2%20GHz%2C%20depending%20on%20the%20workload.
+https://es.m.wikipedia.org/wiki/Pentium_II#:~:text=Pose%C3%ADa%2032%20KiB%20de%20memoria,otros%2016%20KiB%20para%20instrucciones.
+https://es.m.wikipedia.org/w/index.php?search=I7-4770k&title=Especial%3ABuscar&ns0=1&ns100=1&ns104=1
+https://ark.intel.com/content/www/us/en/ark/products/75123/intel-core-i74770k-processor-8m-cache-up-to-3-90-ghz.html
+https://www.intel.la/content/www/xl/es/products/sku/212254/intel-core-i911900f-processor-16m-cache-up-to-5-20-ghz/specifications.html
+https://www.amd.com/es/products/cpu/amd-ryzen-9-3900xt
